@@ -1,0 +1,14 @@
+# Python dependencies for the analysis scripts.
+# Tested with Python 3.10+. Install with:  pip install -r requirements.txt
+matplotlib
+numpy
+pandas
+scipy
+seaborn
+scikit-learn
+openpyxl
+
+# Batch-effect correction (scripts/clean_data/2_clean_batch_effect.py and
+# scripts/analysis/Fig_3C_S7.py) additionally require the `epistasia` package,
+# maintained by Camacho-Mateu. Install it separately following its repository
+# instructions; it is NOT on PyPI as a pinned dependency here.
