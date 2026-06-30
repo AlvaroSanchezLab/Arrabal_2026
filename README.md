@@ -3,6 +3,8 @@
 This repository contains the analysis code that reproduces the figures of the
 paper *[Statistical learning of bacterial growth in combinatorially constructed environments, Andrea Arrabal, Magdalena San Román, Juan Diaz-Colunga, Alvaro Sanchez, preprint 2026]*.
 
+The modeling analyses were performed in R, and the corresponding code is available at https://github.com/jdiazc9/resource_intxns.
+
 The **data** are archived separately on Zenodo:
 **[10.5281/zenodo.20848258]**
 
