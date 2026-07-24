@@ -6,7 +6,7 @@ paper *[Statistical learning of bacterial growth in combinatorially constructed 
 The modeling analyses were performed in R, and the corresponding code is available at https://github.com/jdiazc9/resource_intxns.
 
 The **data** are archived separately on Zenodo:
-**[10.5281/zenodo.20848258]**
+**[https://doi.org/10.5281/zenodo.20848258]**
 
 To run the pipeline, download the `data/` folder from Zenodo and place it next
 to `scripts/` so the layout is:
@@ -43,7 +43,7 @@ be run from any working directory without editing paths.
 
 ## Strains
 
-`KT`, `Salmonella`, `Serratia`, `P1`, `P2`, `P3`, `PA`.
+`KT`, `Salmonella`, `Serratia`, `P1` (P.atacamensis in main text), `P2`, `P3`, `PA`.
 
 ## How to reproduce
 
